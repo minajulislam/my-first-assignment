@@ -39,4 +39,26 @@ span{
 }
 .quater img{
     width: 40%;
-}            
+} 
+.develop-pic{
+    width: 40%;
+}
+.develop-pic img{
+    width: 80%;
+}
+.develop-pic1{
+    width: 60%;
+}
+.read-button{
+    background-color: coral;
+    text-decoration: none;
+    padding: 10px 30px;
+     border-radius: 5px;   
+}
+.background{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+}
+.background img{
+    width: 50%;
+}          
