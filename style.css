@@ -22,7 +22,8 @@ h1{
     background-color: coral;
     text-decoration: none;
     padding: 10px 30px;
-    border-radius: 5px; 
+    border-radius: 5px;
+    color: white; 
 }
 .align{
     text-align: center;
@@ -55,7 +56,8 @@ span{
     background-color: coral;
     text-decoration: none;
     padding: 10px 30px;
-    border-radius: 5px;   
+    border-radius: 5px;
+    color: white;   
 }
 .last-section{
     width: 60%;
