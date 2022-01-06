@@ -16,13 +16,13 @@ h1{
     line-height: .6;
 }
  .color{
-        color: blueviolet;
+    color: blueviolet;
 }
 .button{
     background-color: coral;
     text-decoration: none;
     padding: 10px 30px;
-     border-radius: 5px; 
+    border-radius: 5px; 
 }
 .align{
     text-align: center;
@@ -55,7 +55,7 @@ span{
     background-color: coral;
     text-decoration: none;
     padding: 10px 30px;
-     border-radius: 5px;   
+    border-radius: 5px;   
 }
 .last-section{
     width: 60%;
