@@ -55,10 +55,6 @@ span{
     padding: 10px 30px;
      border-radius: 5px;   
 }
-.background{
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-}
-.background img{
-    width: 50%;
+.last-section{
+    width: 60%;
 }          
