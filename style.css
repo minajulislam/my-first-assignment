@@ -22,4 +22,11 @@ h1{
     text-decoration: none;
     padding: 10px 30px;
      border-radius: 5px; 
+}
+.align{
+    text-align: center;
+    color: fuchsia;
+}
+span{
+    color: greenyellow;
 }            
