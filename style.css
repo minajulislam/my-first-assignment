@@ -11,3 +11,15 @@ section{
 .half-width img{
     width: 50%;
 }
+h1{
+    font-size: 50px;
+}
+ .color{
+        color: blueviolet;
+}
+.button{
+    background-color: coral;
+    text-decoration: none;
+    padding: 10px 30px;
+     border-radius: 5px; 
+}            
