@@ -57,4 +57,10 @@ span{
 }
 .last-section{
     width: 60%;
+}
+.project-pic{
+    width: 40%;
+}
+.project-pic img{
+    width: 80%;
 }          
