@@ -63,4 +63,27 @@ span{
 }
 .project-pic img{
     width: 80%;
-}          
+} 
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    line-height: .8;
+    height: 120px;
+    padding-top: 10px;
+} 
+.footer-color{
+    color: tomato;
+} 
+#margin{
+    margin-bottom: 10px;
+} 
+.quater1{
+    background-color: rgb(204, 186, 204);
+} 
+.quater2{
+    background-color: rgb(189, 200, 209);
+}
+.quater3{
+    background-color: rgb(201, 201, 153);
+}     
