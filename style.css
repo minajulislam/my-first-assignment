@@ -13,6 +13,7 @@ section{
 }
 h1{
     font-size: 50px;
+    line-height: .6;
 }
  .color{
         color: blueviolet;
@@ -32,7 +33,7 @@ span{
 }
 .quater{
     width: 26%;
-    box-shadow: 10px 10px 30px gray;
+    box-shadow: 0px 0px gray;
     margin-left: 3%;
     margin-right: 3%;
     padding: 15px;
