@@ -37,6 +37,7 @@ span{
     margin-left: 3%;
     margin-right: 3%;
     padding: 15px;
+    border-radius: 15px;
 }
 .quater img{
     width: 40%;
@@ -81,10 +82,22 @@ span{
 } 
 .quater1{
     background-color: rgb(204, 186, 204);
+    
 } 
 .quater2{
     background-color: rgb(189, 200, 209);
 }
 .quater3{
     background-color: rgb(201, 201, 153);
-}     
+}
+.tea-image{
+    width: 40%;
+    width: 308px;
+}
+.para-tea{
+    width: 60%;
+}
+.center{
+    text-align: center;
+}
+     
